@@ -1,4 +1,4 @@
-<img width="982" height="630" alt="image" src="https://github.com/user-attachments/assets/cbc4803b-4645-4fef-938e-b82848b4ebfc" /><img width="982" height="630" alt="image" src="https://github.com/user-attachments/assets/3e001288-2091-4375-a00d-e7fe2e5a3380" /><img width="982" height="630" alt="image" src="https://github.com/user-attachments/assets/c0bcd4cf-e7fc-428a-8b13-a4ccc2d1b3f4" /># 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on<br>Building responsive web applications and solidifying my frontend engineering skills.<br><br>👯 I’m looking to collaborate on<br>Beginner to intermediate open-source web development projects, especially those built with React.<br><br>🤝 I’m looking for help with<br>Deepening my understanding of advanced React concepts and state management.<br><br>🌱 I’m currently learning<br>The MERN stack (MongoDB, Express, React, Node.js) and mastering Tailwind CSS workflows.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, responsive design, and PC hardware configurations.<br><br>⚡ Fun fact<br>I love diving into custom PC hardware setups, configuring Linux distributions, and exploring web development.
 
 
