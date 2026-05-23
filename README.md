@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 Analytics Dashboard
+<!-- ## 📊 Analytics Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=ghani726&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
@@ -65,6 +65,7 @@
 </p>
 
 ---
+-->
 
 ### ✍️ Production Lore
 <p align="center">
