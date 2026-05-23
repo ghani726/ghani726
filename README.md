@@ -18,13 +18,13 @@ I am a frontend engineer focused on building responsive web applications and mas
 
 <p align="left">
   <a href="https://www.facebook.com/ghani726" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="40" alt="Facebook" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="50" alt="Facebook" />
   </a>&nbsp;
   <a href="https://instagram.com/ghani726" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="40" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
   </a>&nbsp;
   <a href="mailto:ghani726@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=outlook" height="50" alt="Outlook" />
   </a>
 </p>
 
