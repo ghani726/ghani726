@@ -22,13 +22,13 @@
 
 <p align="left">
   <a href="https://www.facebook.com/ghani726" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="42" alt="Facebook" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=24" height="48" width="48" alt="Facebook" style="border-radius: 8px; margin-right: 6px;" />
+  </a>
   <a href="https://instagram.com/ghani726" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=24" height="48" width="48" alt="Instagram" style="border-radius: 8px; margin-right: 6px;" />
+  </a>
   <a href="mailto:ghani726@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="42" alt="Outlook" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&logoWidth=24" height="48" width="48" alt="Outlook" style="border-radius: 8px;" />
   </a>
 </p>
 
