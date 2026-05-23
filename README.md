@@ -68,6 +68,6 @@
 -->
 
 ### ✍️ Production Lore
-<p align="left">
+<p align="left" style="width:100%">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
